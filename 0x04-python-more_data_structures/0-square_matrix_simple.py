@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def def square_matrix_simple(matrix=[]):
+def square_matrix_simple(matrix=[]):
     nm = matrix.copy()
 
     for i in range(len(matrix)):
